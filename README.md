@@ -1,2 +1,2 @@
 # Simon-game
-Frontend basic
+USE of HTML,CSS & JS
